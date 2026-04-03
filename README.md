@@ -1,4 +1,4 @@
-# 🎌 Anime Feature Extraction using Pandas
+# Anime Feature Extraction using Pandas
 
 This project focuses on extracting key features from an anime dataset using Python and Pandas.
 The main goal is to perform basic data cleaning and feature extraction for analysis.
